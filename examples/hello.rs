@@ -16,4 +16,3 @@ fn main() -> Result<(), &'static str> {
     foo(3)?;
     Ok(())
 }
-
